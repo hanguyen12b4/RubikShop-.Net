@@ -1,0 +1,16 @@
+D:\WinForm\QlChRubik\SMS\BUS_SMS\bin\Debug\BUS_SMS.dll
+D:\WinForm\QlChRubik\SMS\BUS_SMS\bin\Debug\BUS_SMS.pdb
+D:\WinForm\QlChRubik\SMS\BUS_SMS\bin\Debug\DAL_SMS.dll
+D:\WinForm\QlChRubik\SMS\BUS_SMS\bin\Debug\DAL_SMS.pdb
+D:\WinForm\QlChRubik\SMS\BUS_SMS\obj\Debug\BUS_SMS.csprojAssemblyReference.cache
+D:\WinForm\QlChRubik\SMS\BUS_SMS\obj\Debug\BUS_SMS.csproj.CoreCompileInputs.cache
+D:\WinForm\QlChRubik\SMS\BUS_SMS\obj\Debug\BUS_SMS.csproj.CopyComplete
+D:\WinForm\QlChRubik\SMS\BUS_SMS\obj\Debug\BUS_SMS.dll
+D:\WinForm\QlChRubik\SMS\BUS_SMS\obj\Debug\BUS_SMS.pdb
+D:\temp\SMS\BUS_SMS\bin\Debug\BUS_SMS.dll
+D:\temp\SMS\BUS_SMS\bin\Debug\BUS_SMS.pdb
+D:\temp\SMS\BUS_SMS\bin\Debug\DAL_SMS.dll
+D:\temp\SMS\BUS_SMS\bin\Debug\DAL_SMS.pdb
+D:\temp\SMS\BUS_SMS\obj\Debug\BUS_SMS.csprojResolveAssemblyReference.cache
+D:\temp\SMS\BUS_SMS\obj\Debug\BUS_SMS.dll
+D:\temp\SMS\BUS_SMS\obj\Debug\BUS_SMS.pdb

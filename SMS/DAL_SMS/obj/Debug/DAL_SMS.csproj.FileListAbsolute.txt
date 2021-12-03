@@ -1,0 +1,11 @@
+D:\WinForm\QlChRubik\SMS\DAL_SMS\bin\Debug\DAL_SMS.dll
+D:\WinForm\QlChRubik\SMS\DAL_SMS\bin\Debug\DAL_SMS.pdb
+D:\WinForm\QlChRubik\SMS\DAL_SMS\obj\Debug\DAL_SMS.csprojAssemblyReference.cache
+D:\WinForm\QlChRubik\SMS\DAL_SMS\obj\Debug\DAL_SMS.csproj.CoreCompileInputs.cache
+D:\WinForm\QlChRubik\SMS\DAL_SMS\obj\Debug\DAL_SMS.dll
+D:\WinForm\QlChRubik\SMS\DAL_SMS\obj\Debug\DAL_SMS.pdb
+D:\temp\SMS\DAL_SMS\bin\Debug\DAL_SMS.dll
+D:\temp\SMS\DAL_SMS\bin\Debug\DAL_SMS.pdb
+D:\temp\SMS\DAL_SMS\obj\Debug\DAL_SMS.csprojResolveAssemblyReference.cache
+D:\temp\SMS\DAL_SMS\obj\Debug\DAL_SMS.dll
+D:\temp\SMS\DAL_SMS\obj\Debug\DAL_SMS.pdb
